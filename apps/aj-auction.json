@@ -1,0 +1,8 @@
+{
+  "appId": "aj-auction",
+  "appName": "AJ Auction",
+  "latestVersion": "0.2.1",
+  "versionCode": 3,
+  "apkUrl": "https://github.com/amarjeetmaan3/Ajupdates/releases/download/aj-auction-v0.2.1/app-release.apk",
+  "releaseNotes": "Initial common-download manifest. Publish the matching APK asset before offering this update."
+}
